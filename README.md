@@ -1,6 +1,6 @@
 ## Getting Started
 
-This repo is a collection of all Flutter applications I ever made.
+This repo is a collection of all Flutter applications I made while learning.
 
 A few resources to get you started if this is your first Flutter project:
 
